@@ -10,10 +10,10 @@ library(leaflet)
 library(dplyr)
 library(stringr)
 
-df_map <- read.csv("https://github.com/jlomako/quebec-emergency-rooms/raw/main/data/coordinates.csv")
+df_map <- read.csv("https://raw.githubusercontent.com/moneshvenkul/Quebec-emergency-rooms-shiny/main/data/coordinates.csv")
 
 # get hourly data:
-url <- "https://github.com/jlomako/quebec-emergency-rooms/raw/main/data/urgence.csv"
+url <- "https://raw.githubusercontent.com/moneshvenkul/Quebec-emergency-rooms-shiny/main/data/urgence.csv"
 df <- read.csv(url, encoding = "latin1") # using read.csv here because vroom can't handle french characters
 
 # get last update
@@ -64,7 +64,7 @@ ui <- bootstrapPage(
     div(leafletOutput("map")),
     div(htmlOutput("update", class="pt-3 fw-bold")),
     div(HTML("Data source: Ministère de la Santé et des Services sociaux du Québec<br>© Copyright 2022,"),
-        tags$a(href="https://github.com/jlomako", "jlomako")
+        tags$a(href="https://github.com/moneshvenkul", "Monesh Venkul")
         ),
   ) # close container
 ) # close ui
