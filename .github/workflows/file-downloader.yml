@@ -1,0 +1,32 @@
+name: file-downloader v2
+
+# set timer: at minute 45
+on:
+  schedule:
+  - cron: 45 * * * *
+
+#on:
+#  push:
+#    branches: 
+#      - main
+
+jobs: 
+  download-file:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: run-wget
+        run: wget "https://www.msss.gouv.qc.ca/professionnels/statistiques/documents/urgences/Releve_horaire_urgences_7jours.csv"
+      # run: wget "https://www.msss.gouv.qc.ca/professionnels/statistiques/documents/urgences/Rap_Quotid_SituatUrgence1.pdf"
+
+      - name: commit files
+        run: |
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+          git add *.csv
+          git mv -f "Releve_horaire_urgences_7jours.csv" "data/urgence.csv"
+          git commit -am "Scheduled Github Action on $(date)"
+          git push origin main
