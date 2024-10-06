@@ -1,116 +1,116 @@
 Nom_etablissement , Nom_installation , No_permis_installation , Nombre_de_civieres_fonctionnelles , Nombre_de_civieres_occupees , Nombre_de_patients_sur_civiere_plus_de_24_heures , Nombre_de_patients_sur_civiere_plus_de_48_heures , Heure_de_l'extraction_(image) , Mise_a_jour
-"CISSS du Bas-Saint-Laurent","Hôpital de Matane",51218980,7,3,0,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","Centre hospitalier d'Amqui",51226892,6,3,0,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","Hôpital régional de Rimouski",51227882,12,12,4,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","Centre hospitalier Trois-Pistoles",51220499,3,6,0,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","Centre hospitalier régional du Grand-Portage",51218352,9,14,1,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","Hôpital de Notre-Dame-du-Lac",51221877,5,3,0,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","CLSC de Pohenegamook",51219418,3,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS du Bas-Saint-Laurent","Hôpital Notre-Dame-de-Fatima",51221141,7,1,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital de La Baie",51221364,7,7,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital de Chicoutimi",51218394,41,25,1,1,07:00:00,2024-10-06T7:45
-"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital et Centre de réadaptation de Jonquière",51224541,16,16,1,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital d'Alma",51219400,17,10,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital, CLSC et Centre d'hébergement de Roberval",51228203,13,4,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital de Dolbeau-Mistassini",51219384,10,4,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Capitale-Nationale","Hôpital régional de Portneuf et CLSC Saint-Raymond",51223196,7,2,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Capitale-Nationale","CLSC Saint-Marc-des-Carrières",51223188,3,2,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Capitale-Nationale","Hôpital Chauveau",51225001,5,0,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Capitale-Nationale","Hôpital de Sainte-Anne-de-Beaupré",51225357,4,2,1,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Capitale-Nationale","Hôpital de Baie-Saint-Paul",51228716,8,6,2,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Capitale-Nationale","Hôpital de La Malbaie",51228690,9,1,0,0,07:00:00,2024-10-06T7:45
-"CHU","Le Centre hospitalier de l'Université Laval",51217594,43,35,5,0,07:00:00,2024-10-06T7:45
-"CHU","Hôpital Saint-François-d'Assise",51217602,34,23,1,0,07:00:00,2024-10-06T7:45
-"CHU","L'Hôtel-Dieu de Québec",51217586,15,14,1,1,07:00:00,2024-10-06T7:45
-"CHU","Hôpital de l'Enfant-Jésus",51233914,48,55,15,1,07:00:00,2024-10-06T7:45
-"CHU","Hôpital du Saint-Sacrement",51217529,22,18,1,0,07:00:00,2024-10-06T7:45
-"Institut universitaire de cardiologie et de pneumologie de Québec","Institut universitaire de cardiologie et de pneumologie de Québec",51232130,20,19,2,1,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","CSSS du Haut-Saint-Maurice",51219731,7,6,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","Hôpital du Centre-de-la-Mauricie",51220051,19,15,1,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","Résidence Avellin-Dalcourt",51233583,4,4,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","Centre hospitalier régional de Trois-Rivières",51220168,45,43,2,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","Hôtel-Dieu d'Arthabaska",51228039,16,18,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","Hôpital Sainte-Croix",51228781,19,22,1,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","CLSC de Fortierville",51219160,2,0,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de la Mauricie et du Centre-du-Québec","Centre multiservices de santé et services sociaux Christ-Roi",51220523,6,5,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôpital Fleurimont",51216687,28,23,1,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôtel-Dieu",51216695,44,42,13,7,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","CSSS de Memphrémagog",51219046,11,8,2,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","CSSS de la MRC-de Coaticook",51219350,6,0,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","CSSS du Granit",51223832,5,2,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôpital, CLSC et Centre d'hébergement d'Asbestos",51219293,7,1,0,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôpital Brome-Missisquoi-Perkins",51229185,16,21,4,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Centre hospitalier de Granby",51228120,20,29,5,2,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Centre hospitalier de St. Mary",12745725,22,28,2,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Institut universitaire en santé mentale Douglas",51235190,8,9,1,0,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Hôpital de LaSalle",51224392,15,16,9,4,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Hôpital général du Lakeshore",51228278,31,49,18,8,07:00:00,2024-10-06T7:45
-"CIUSSS du Centre-Ouest-de-l'Île-de-Montréal","L'Hôpital général Juif Sir Mortimer B. Davis",12685608,53,77,23,13,07:00:00,2024-10-06T7:45
-"CIUSSS du Centre-Sud-de-l'Île-de-Montréal","Hôpital de Verdun",51218097,26,31,12,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Centre-Sud-de-l'Île-de-Montréal","Hôpital Notre-Dame",51236313,35,33,11,5,07:00:00,2024-10-06T7:45
-"CIUSSS du Nord-de-l'Île-de-Montréal","Hôpital Fleury",51228492,18,17,3,0,07:00:00,2024-10-06T7:45
-"CIUSSS du Nord-de-l'Île-de-Montréal","Hôpital du Sacré-Coeur de Montréal",12475976,46,54,15,4,07:00:00,2024-10-06T7:45
-"CIUSSS du Nord-de-l'Île-de-Montréal","Hôpital Jean-Talon",51228500,22,21,8,2,07:00:00,2024-10-06T7:45
-"CIUSSS du Nord-de-l'Île-de-Montréal","Pavillon Albert-Prévost",51848752,9,13,10,7,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Est-de-l'Île-de-Montréal","Institut universitaire en santé mentale de Montréal",51235307,12,6,4,1,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Est-de-l'Île-de-Montréal","Hôpital Maisonneuve-Rosemont",12934659,54,81,26,7,07:00:00,2024-10-06T7:45
-"CIUSSS de l'Est-de-l'Île-de-Montréal","Hôpital Santa Cabrini",12420774,38,45,17,5,07:00:00,2024-10-06T7:45
-"CHUM","Centre hospitalier de l'Université de Montréal",51236297,51,53,12,3,07:00:00,2024-10-06T7:45
-"CUSM","Hôpital Royal Victoria",51223295,33,57,36,14,07:00:00,2024-10-06T7:45
-"CUSM","Hôpital général de Montréal",12599213,31,50,32,18,07:00:00,2024-10-06T7:45
-"CUSM","Hôpital de Montréal pour enfants",51223279,12,7,0,0,07:00:00,2024-10-06T7:45
-"CUSM","Campus Lachine",51228310,14,11,3,0,07:00:00,2024-10-06T7:45
-"Institut de Cardiologie de Montréal","Institut de Cardiologie de Montréal",12431656,22,7,0,0,07:00:00,2024-10-06T7:45
-"CHU Sainte-Justine","CHU Sainte-Justine",51222800,16,11,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","Hôpital du Pontiac",51219459,4,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","Hôpital de Hull",51221711,25,24,13,4,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","Hôpital de Gatineau",51221703,28,33,15,8,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","Hôpital de Papineau",51228823,12,13,2,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","Hôpital Memorial de Wakefield",51228799,4,2,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","CLSC de Fort-Coulonge",51219442,2,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","Hôpital de Maniwaki",51221893,6,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Outaouais","CLSC et Centre d'hébergement la Petite-Nation",51219491,2,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Abitibi-Témiscamingue","Hôpital et CLSC de Val-d'Or",51225589,11,6,1,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Abitibi-Témiscamingue","Centre hospitalier Hôtel-Dieu d'Amos",51228906,7,3,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Abitibi-Témiscamingue","Centre hospitalier La Sarre",51221083,5,2,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Abitibi-Témiscamingue","Centre hospitalier de Rouyn-Noranda",51228922,8,5,1,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Abitibi-Témiscamingue","Pavillon Ste-Famille",51218840,5,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS de l'Abitibi-Témiscamingue","Point de service de Temiscaming-et-de-Kipawa",51233609,1,2,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","Pavillon Forestville",51218741,5,2,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","Pavillon Escoumins",51218733,3,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","Hôpital Le Royer",51228765,10,13,3,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","Hôpital et Centre d'hébergement de Sept-Iles",51232023,10,11,3,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","CSSS de l'Hématite",14628986,2,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","CSSS de la Minganie",51219004,2,4,1,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","CSSS de la Basse-Côte-Nord",51234508,4,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Côte-Nord","CSSS de Port-Cartier",51229896,5,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","Hôpital de Sainte-Anne-des-Monts",51221539,6,3,1,1,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","Hôpital de Maria",51227908,10,11,2,0,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","CLSC de Paspébiac",51220978,4,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","Hôpital de Chandler",51227775,8,7,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","Hôpital Hôtel-Dieu",51220903,6,8,2,0,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","CLSC de Grande-Vallée",51221299,2,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Gaspésie","CLSC de Murdochville",51221307,2,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS des Îles","Hôpital de l'Archipel",51227783,6,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS de Chaudière-Appalaches","Hôpital de Montmagny",51228963,10,11,3,0,07:00:00,2024-10-06T7:45
-"CISSS de Chaudière-Appalaches","Hôtel-Dieu de Lévis",51227569,43,48,15,2,07:00:00,2024-10-06T7:45
-"CISSS de Chaudière-Appalaches","Centre Paul-Gilbert - Centre d'hébergement de Charny",51219673,0,0,0,0,07:00:00,2024-10-06T7:45
-"CISSS de Chaudière-Appalaches","Hôpital de St-Georges",51228971,21,13,0,0,07:00:00,2024-10-06T7:45
-"CISSS de Chaudière-Appalaches","Hôpital de Thetford Mines",51228948,10,10,2,0,07:00:00,2024-10-06T7:45
-"CISSS de Laval","Hôpital Cité de la Santé",51228757,49,64,5,1,07:00:00,2024-10-06T7:45
-"CISSS de Lanaudière","Hôpital Pierre-Le Gardeur",51228062,47,57,13,1,07:00:00,2024-10-06T7:45
-"CISSS de Lanaudière","Centre hospitalier régional de Lanaudière",51228856,42,41,5,0,07:00:00,2024-10-06T7:45
-"CISSS des Laurentides","Hôpital de Saint-Eustache",51228864,35,46,18,6,07:00:00,2024-10-06T7:45
-"CISSS des Laurentides","Hôpital régional de Saint-Jérôme",51228880,47,75,31,15,07:00:00,2024-10-06T7:45
-"CISSS des Laurentides","CSSS d'Argenteuil",13508718,8,11,4,0,07:00:00,2024-10-06T7:45
-"CISSS des Laurentides","Hôpital Laurentien",51226777,18,26,26,3,07:00:00,2024-10-06T7:45
-"CISSS des Laurentides","Centre de services de Rivière-Rouge",51217628,5,1,0,0,07:00:00,2024-10-06T7:45
-"CISSS des Laurentides","Hôpital de Mont-Laurier",51217610,5,6,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Centre","Hôpital Charles Lemoyne",51233799,43,44,9,0,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Centre","Hôpital du Haut-Richelieu",51229045,37,44,18,5,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Est","Hôtel-Dieu de Sorel",51229102,17,17,0,0,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Est","Hôpital Honoré-Mercier",51229193,26,25,5,0,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Est","Hôpital Pierre-Boucher",51229011,47,48,12,3,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Ouest","Centre hospitalier Anna-Laberge",51229151,32,49,19,8,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Ouest","Hôpital Barrie Memorial",51228005,5,4,1,0,07:00:00,2024-10-06T7:45
-"CISSS de la Montérégie-Ouest","Hôpital du Suroît",51229136,32,34,12,4,07:00:00,2024-10-06T7:45
+"CISSS du Bas-Saint-Laurent","Hôpital de Matane",51218980,7,2,0,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","Centre hospitalier d'Amqui",51226892,6,3,0,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","Hôpital régional de Rimouski",51227882,12,13,4,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","Centre hospitalier Trois-Pistoles",51220499,3,3,0,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","Centre hospitalier régional du Grand-Portage",51218352,9,14,1,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","Hôpital de Notre-Dame-du-Lac",51221877,5,3,0,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","CLSC de Pohenegamook",51219418,3,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS du Bas-Saint-Laurent","Hôpital Notre-Dame-de-Fatima",51221141,7,1,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital de La Baie",51221364,7,7,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital de Chicoutimi",51218394,41,25,1,1,08:00:00,2024-10-06T8:45
+"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital et Centre de réadaptation de Jonquière",51224541,16,16,1,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital d'Alma",51219400,17,11,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital, CLSC et Centre d'hébergement de Roberval",51228203,13,6,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Saguenay - Lac-Saint-Jean","Hôpital de Dolbeau-Mistassini",51219384,10,3,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Capitale-Nationale","Hôpital régional de Portneuf et CLSC Saint-Raymond",51223196,7,2,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Capitale-Nationale","CLSC Saint-Marc-des-Carrières",51223188,3,2,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Capitale-Nationale","Hôpital Chauveau",51225001,5,0,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Capitale-Nationale","Hôpital de Sainte-Anne-de-Beaupré",51225357,4,2,1,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Capitale-Nationale","Hôpital de Baie-Saint-Paul",51228716,8,6,2,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Capitale-Nationale","Hôpital de La Malbaie",51228690,9,1,0,0,08:00:00,2024-10-06T8:45
+"CHU","Le Centre hospitalier de l'Université Laval",51217594,43,37,6,0,08:00:00,2024-10-06T8:45
+"CHU","Hôpital Saint-François-d'Assise",51217602,34,22,2,0,08:00:00,2024-10-06T8:45
+"CHU","L'Hôtel-Dieu de Québec",51217586,15,13,1,1,08:00:00,2024-10-06T8:45
+"CHU","Hôpital de l'Enfant-Jésus",51233914,48,53,15,1,08:00:00,2024-10-06T8:45
+"CHU","Hôpital du Saint-Sacrement",51217529,22,20,1,0,08:00:00,2024-10-06T8:45
+"Institut universitaire de cardiologie et de pneumologie de Québec","Institut universitaire de cardiologie et de pneumologie de Québec",51232130,20,21,2,1,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","CSSS du Haut-Saint-Maurice",51219731,7,6,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","Hôpital du Centre-de-la-Mauricie",51220051,19,14,1,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","Résidence Avellin-Dalcourt",51233583,4,3,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","Centre hospitalier régional de Trois-Rivières",51220168,45,43,2,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","Hôtel-Dieu d'Arthabaska",51228039,16,16,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","Hôpital Sainte-Croix",51228781,19,21,2,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","CLSC de Fortierville",51219160,2,0,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de la Mauricie et du Centre-du-Québec","Centre multiservices de santé et services sociaux Christ-Roi",51220523,6,6,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôpital Fleurimont",51216687,28,26,1,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôtel-Dieu",51216695,44,43,13,7,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","CSSS de Memphrémagog",51219046,11,8,2,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","CSSS de la MRC-de Coaticook",51219350,6,0,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","CSSS du Granit",51223832,5,2,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôpital, CLSC et Centre d'hébergement d'Asbestos",51219293,7,1,0,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Hôpital Brome-Missisquoi-Perkins",51229185,16,23,4,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Estrie - Centre hospitalier de Sherbrooke","Centre hospitalier de Granby",51228120,20,29,5,2,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Centre hospitalier de St. Mary",12745725,22,30,2,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Institut universitaire en santé mentale Douglas",51235190,8,9,1,0,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Hôpital de LaSalle",51224392,15,16,9,4,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Ouest-de-l'Île-de-Montréal","Hôpital général du Lakeshore",51228278,31,50,19,9,08:00:00,2024-10-06T8:45
+"CIUSSS du Centre-Ouest-de-l'Île-de-Montréal","L'Hôpital général Juif Sir Mortimer B. Davis",12685608,53,82,23,12,08:00:00,2024-10-06T8:45
+"CIUSSS du Centre-Sud-de-l'Île-de-Montréal","Hôpital de Verdun",51218097,26,32,12,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Centre-Sud-de-l'Île-de-Montréal","Hôpital Notre-Dame",51236313,35,35,12,5,08:00:00,2024-10-06T8:45
+"CIUSSS du Nord-de-l'Île-de-Montréal","Hôpital Fleury",51228492,18,16,3,0,08:00:00,2024-10-06T8:45
+"CIUSSS du Nord-de-l'Île-de-Montréal","Hôpital du Sacré-Coeur de Montréal",12475976,46,51,16,5,08:00:00,2024-10-06T8:45
+"CIUSSS du Nord-de-l'Île-de-Montréal","Hôpital Jean-Talon",51228500,22,19,8,2,08:00:00,2024-10-06T8:45
+"CIUSSS du Nord-de-l'Île-de-Montréal","Pavillon Albert-Prévost",51848752,9,13,10,8,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Est-de-l'Île-de-Montréal","Institut universitaire en santé mentale de Montréal",51235307,12,6,4,1,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Est-de-l'Île-de-Montréal","Hôpital Maisonneuve-Rosemont",12934659,54,83,28,7,08:00:00,2024-10-06T8:45
+"CIUSSS de l'Est-de-l'Île-de-Montréal","Hôpital Santa Cabrini",12420774,38,46,18,5,08:00:00,2024-10-06T8:45
+"CHUM","Centre hospitalier de l'Université de Montréal",51236297,51,51,13,3,08:00:00,2024-10-06T8:45
+"CUSM","Hôpital Royal Victoria",51223295,33,58,37,15,08:00:00,2024-10-06T8:45
+"CUSM","Hôpital général de Montréal",12599213,31,52,32,18,08:00:00,2024-10-06T8:45
+"CUSM","Hôpital de Montréal pour enfants",51223279,12,6,1,0,08:00:00,2024-10-06T8:45
+"CUSM","Campus Lachine",51228310,14,11,3,0,08:00:00,2024-10-06T8:45
+"Institut de Cardiologie de Montréal","Institut de Cardiologie de Montréal",12431656,22,7,0,0,08:00:00,2024-10-06T8:45
+"CHU Sainte-Justine","CHU Sainte-Justine",51222800,16,13,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","Hôpital du Pontiac",51219459,4,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","Hôpital de Hull",51221711,25,24,13,4,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","Hôpital de Gatineau",51221703,28,36,16,8,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","Hôpital de Papineau",51228823,12,13,2,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","Hôpital Memorial de Wakefield",51228799,4,2,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","CLSC de Fort-Coulonge",51219442,2,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","Hôpital de Maniwaki",51221893,6,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Outaouais","CLSC et Centre d'hébergement la Petite-Nation",51219491,2,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Abitibi-Témiscamingue","Hôpital et CLSC de Val-d'Or",51225589,11,5,1,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Abitibi-Témiscamingue","Centre hospitalier Hôtel-Dieu d'Amos",51228906,7,3,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Abitibi-Témiscamingue","Centre hospitalier La Sarre",51221083,5,2,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Abitibi-Témiscamingue","Centre hospitalier de Rouyn-Noranda",51228922,8,5,1,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Abitibi-Témiscamingue","Pavillon Ste-Famille",51218840,5,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS de l'Abitibi-Témiscamingue","Point de service de Temiscaming-et-de-Kipawa",51233609,1,2,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","Pavillon Forestville",51218741,5,2,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","Pavillon Escoumins",51218733,3,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","Hôpital Le Royer",51228765,10,16,3,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","Hôpital et Centre d'hébergement de Sept-Iles",51232023,10,14,3,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","CSSS de l'Hématite",14628986,2,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","CSSS de la Minganie",51219004,2,4,1,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","CSSS de la Basse-Côte-Nord",51234508,4,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Côte-Nord","CSSS de Port-Cartier",51229896,5,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","Hôpital de Sainte-Anne-des-Monts",51221539,6,3,1,1,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","Hôpital de Maria",51227908,10,11,2,0,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","CLSC de Paspébiac",51220978,4,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","Hôpital de Chandler",51227775,8,7,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","Hôpital Hôtel-Dieu",51220903,6,8,2,0,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","CLSC de Grande-Vallée",51221299,2,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Gaspésie","CLSC de Murdochville",51221307,2,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS des Îles","Hôpital de l'Archipel",51227783,6,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS de Chaudière-Appalaches","Hôpital de Montmagny",51228963,10,12,3,0,08:00:00,2024-10-06T8:45
+"CISSS de Chaudière-Appalaches","Hôtel-Dieu de Lévis",51227569,43,48,16,2,08:00:00,2024-10-06T8:45
+"CISSS de Chaudière-Appalaches","Centre Paul-Gilbert - Centre d'hébergement de Charny",51219673,0,0,0,0,08:00:00,2024-10-06T8:45
+"CISSS de Chaudière-Appalaches","Hôpital de St-Georges",51228971,21,13,0,0,08:00:00,2024-10-06T8:45
+"CISSS de Chaudière-Appalaches","Hôpital de Thetford Mines",51228948,10,10,2,0,08:00:00,2024-10-06T8:45
+"CISSS de Laval","Hôpital Cité de la Santé",51228757,49,65,6,1,08:00:00,2024-10-06T8:45
+"CISSS de Lanaudière","Hôpital Pierre-Le Gardeur",51228062,47,57,13,1,08:00:00,2024-10-06T8:45
+"CISSS de Lanaudière","Centre hospitalier régional de Lanaudière",51228856,42,42,5,0,08:00:00,2024-10-06T8:45
+"CISSS des Laurentides","Hôpital de Saint-Eustache",51228864,35,46,19,6,08:00:00,2024-10-06T8:45
+"CISSS des Laurentides","Hôpital régional de Saint-Jérôme",51228880,47,73,32,16,08:00:00,2024-10-06T8:45
+"CISSS des Laurentides","CSSS d'Argenteuil",13508718,8,12,4,0,08:00:00,2024-10-06T8:45
+"CISSS des Laurentides","Hôpital Laurentien",51226777,18,26,26,3,08:00:00,2024-10-06T8:45
+"CISSS des Laurentides","Centre de services de Rivière-Rouge",51217628,5,1,0,0,08:00:00,2024-10-06T8:45
+"CISSS des Laurentides","Hôpital de Mont-Laurier",51217610,5,5,0,0,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Centre","Hôpital Charles Lemoyne",51233799,43,44,9,0,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Centre","Hôpital du Haut-Richelieu",51229045,37,44,18,5,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Est","Hôtel-Dieu de Sorel",51229102,17,17,1,0,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Est","Hôpital Honoré-Mercier",51229193,26,29,6,0,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Est","Hôpital Pierre-Boucher",51229011,47,48,13,3,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Ouest","Centre hospitalier Anna-Laberge",51229151,32,46,17,5,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Ouest","Hôpital Barrie Memorial",51228005,5,4,1,0,08:00:00,2024-10-06T8:45
+"CISSS de la Montérégie-Ouest","Hôpital du Suroît",51229136,32,34,12,4,08:00:00,2024-10-06T8:45
